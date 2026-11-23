@@ -200,4 +200,5 @@ Kerjakan bagian-bagian yang ditandai komentar `TODO` secara berurutan pada 8 fil
   - Jalankan `php artisan migrate:fresh --seed` untuk memuat seluruh data seeder baru.
 
 #   P A W - J U R N A L 4 - H A S Y A - 1 0 2 0 4 2 5 0 0 1 6 9  
+ #   P A W - J U R N A L 4 - H A S Y A - 1 0 2 0 4 2 5 0 0 1 6 9  
  
